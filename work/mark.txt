@@ -1,0 +1,14 @@
+3.21
+1. try balanced sample
+2. parameter tunning for xgb and lgb
+3. models ensemble // https://www.kaggle.com/roydatascience/fork-of-eda-pca-simple-lgbm-kfold
+
+#lr performed better in testing but not on board, casual tuning
+
+3.25
+done smte, time consuming ## and not correct
+smte currently have huge effect on the model perfomance, waiting for verification
+
+1. consist the balanced data, sample when training to save time
+2. train multiple models to avg ,use different source and distribution of data
+3. lgb's performances .. the kernel
