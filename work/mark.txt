@@ -22,3 +22,7 @@ smote may not work, need more attempt.
 
 kernel:
 idea of data augment: https://www.kaggle.com/jiweiliu/lgb-2-leaves-augment
+
+done test tuning the lgb
+go to 0.877
+need to find an augmentation method to tune the data
