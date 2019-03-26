@@ -12,3 +12,13 @@ smte currently have huge effect on the model perfomance, waiting for verificatio
 1. consist the balanced data, sample when training to save time
 2. train multiple models to avg ,use different source and distribution of data
 3. lgb's performances .. the kernel
+
+3.26
+smote may not work, need more attempt.
+
+1. find out the data augement
+2. tuninng param
+3. combine models
+
+kernel:
+idea of data augment: https://www.kaggle.com/jiweiliu/lgb-2-leaves-augment
