@@ -32,3 +32,6 @@ personal implement smote not working but imblearn seems works
 left to explore
 
 https://imbalanced-learn.org/en/stable/api.html
+
+done over_sampling and ten rounds means, just like the validation, the lb is around 0.888
+need to break through
