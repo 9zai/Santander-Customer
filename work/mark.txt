@@ -41,6 +41,11 @@ need to break through
 1. no scaling did performs better
 2. Maybe needs more FE 
 
+Some article about lab
+https://blog.csdn.net/hqr20627/article/details/79426031
+https://blog.csdn.net/qq_24519677/article/details/82811215
+https://www.cnblogs.com/jiangxinyang/p/9337094.html
+
 Some interesting kernel:
 https://www.kaggle.com/jesucristo/30-lines-starter-solution-fast
 https://www.kaggle.com/artgor/santander-eda-fe-fs-and-models
