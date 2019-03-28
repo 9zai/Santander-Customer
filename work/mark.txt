@@ -51,3 +51,6 @@ https://www.kaggle.com/jesucristo/30-lines-starter-solution-fast
 https://www.kaggle.com/artgor/santander-eda-fe-fs-and-models
 https://www.kaggle.com/brandenkmurray/randomly-shuffled-data-also-works
 https://www.kaggle.com/felipemello/boosting-creativity-towards-feature-engineering
+
+achieve 0.898 on lp same score as local cv..
+try to achieve 0.902
