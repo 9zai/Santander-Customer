@@ -27,6 +27,7 @@ done test tuning the lgb
 go to 0.877
 need to find an augmentation method to tune the data
 
+
 3.27
 personal implement smote not working but imblearn seems works
 left to explore
@@ -35,3 +36,13 @@ https://imbalanced-learn.org/en/stable/api.html
 
 done over_sampling and ten rounds means, just like the validation, the lb is around 0.888
 need to break through
+
+3.28
+1. no scaling did performs better
+2. Maybe needs more FE 
+
+Some interesting kernel:
+https://www.kaggle.com/jesucristo/30-lines-starter-solution-fast
+https://www.kaggle.com/artgor/santander-eda-fe-fs-and-models
+https://www.kaggle.com/brandenkmurray/randomly-shuffled-data-also-works
+https://www.kaggle.com/felipemello/boosting-creativity-towards-feature-engineering
