@@ -54,3 +54,7 @@ https://www.kaggle.com/felipemello/boosting-creativity-towards-feature-engineeri
 
 achieve 0.898 on lp same score as local cv..
 try to achieve 0.902
+
+3.29
+1. shuffle value within the same class since not effect or even improve the score -- worthy trying for augementation
+https://www.kaggle.com/brandenkmurray/randomly-shuffled-data-also-works
