@@ -58,3 +58,11 @@ try to achieve 0.902
 3.29
 1. shuffle value within the same class since not effect or even improve the score -- worthy trying for augementation
 https://www.kaggle.com/brandenkmurray/randomly-shuffled-data-also-works
+
+4.2
+achieve 0.900 on lb
+look into the discussion about the so called 'magic'
+
+keep tuning and I think the kde will make some sense
+
+1. categorical some var
