@@ -66,3 +66,15 @@ look into the discussion about the so called 'magic'
 keep tuning and I think the kde will make some sense
 
 1. categorical some var
+
+4.8
+sight & implement
+try the kernels idea
+https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87118#502797
+https://www.kaggle.com/pracas/fast-pdf-correlation-matrix-how-many-groups
+https://www.kaggle.com/sibmike/are-vars-mixed-up-time-intervals
+https://www.kaggle.com/cdeotte/modified-naive-bayes-santander-0-899/notebook
+https://www.kaggle.com/jiweiliu/fast-pdf-calculation-with-correlation-matrix
+
+https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87815#latest-509826
+try select some features and apply linear transformation to create new features
