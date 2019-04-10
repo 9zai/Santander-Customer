@@ -78,3 +78,10 @@ https://www.kaggle.com/jiweiliu/fast-pdf-calculation-with-correlation-matrix
 
 https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87815#latest-509826
 try select some features and apply linear transformation to create new features
+
+4.10
+1. change the feature fraction lower, maybe 0.15(0.2 - 0.1) not working
+something more
+https://www.kaggle.com/felipemello/why-your-model-is-overfitting-not-making-progress/comments
+https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87486#latest-506429
+https://www.kaggle.com/cdeotte/modified-naive-bayes-santander-0-899
