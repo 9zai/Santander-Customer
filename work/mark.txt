@@ -85,3 +85,4 @@ something more
 https://www.kaggle.com/felipemello/why-your-model-is-overfitting-not-making-progress/comments
 https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87486#latest-506429
 https://www.kaggle.com/cdeotte/modified-naive-bayes-santander-0-899
+https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87133#502814
