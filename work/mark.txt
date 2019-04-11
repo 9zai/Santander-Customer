@@ -86,3 +86,15 @@ https://www.kaggle.com/felipemello/why-your-model-is-overfitting-not-making-prog
 https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87486#latest-506429
 https://www.kaggle.com/cdeotte/modified-naive-bayes-santander-0-899
 https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/87133#502814
+
+4.11
+#end mark
+The magic is to used count as features
+I will try in my local CV
+some great kernel listes below
+https://www.kaggle.com/cdeotte/200-magical-models-santander-0-920
+https://www.kaggle.com/jesucristo/magic-compilation-part-i
+
+1.Need to impove the EDA and visual technology
+2.Need to keep working on understanding the detail of models
+
